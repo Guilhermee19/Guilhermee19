@@ -1,4 +1,4 @@
- ## Oiii! Eu sou o Guilherme Santana
+ ## Oiii! Eu sou o Guilherme
  <div>
   <a href="https://github.com/Guilhermee19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermee19&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
