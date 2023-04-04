@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/gui-santana/">
+  <a href="https://www.linkedin.com/in/gui-santana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://codepen.io/Guilhermee19">
+  <a href="https://codepen.io/Guilhermee19" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="Codepen Badge"/>
   </a>
-  <a href="mailto:eu@iamgui.dev">
+  <a href="mailto:eu@iamgui.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
