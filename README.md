@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://i.ibb.co/FDhCvdm/semfundo.png" width="300"/>
+  <img src="https://i.ibb.co/XsjdkB9/semfundo.png" width="300"/>
 </div>
 
 <div id="badges" align="left">
